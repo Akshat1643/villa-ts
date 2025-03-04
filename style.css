@@ -340,7 +340,7 @@
     justify-content: space-between;
     align-items: flex-start;
     padding: 1rem; 
-    box-shadow: 6px 6px 12px rgba(0, 0, 0, 0.2);
+    box-shadow: 3px 6px 8px 10px rgba(0, 0, 0, 0.2);
   }
   .ba-right-logo{
     color: #F35424;
@@ -397,7 +397,7 @@
     font-size: .9rem;
     font-weight: 300;
     text-wrap: wrap;
-    background-color: #edecec;
+    background-color: #f0f0f0b3;
   }
   .featured{
     font-size: 1.2rem;
@@ -405,6 +405,8 @@
     font-weight: 500;
     display: flex;
     align-items: center;
+    padding-bottom: 6px;
+    border-bottom: 1px solid lightgray;
   }
   .ba-middle-top span:nth-child(2){
     display: flex;
