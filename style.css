@@ -219,7 +219,7 @@
 }
 .ham-icons {
   display: flex;
-  gap: 7px;
+  gap: 10px;
 }
 .ham-icons i {
   font-size: 10px;
