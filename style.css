@@ -210,19 +210,26 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: 6rem;
+  gap: 4.5rem;
   margin-top: 3rem;
 }
 .ham-options li {
   font-size: 30px;
   
 }
+.ham-icons {
+  display: flex;
+  gap: 7px;
+}
+.ham-icons i {
+  font-size: 10px;
+}
 .ham-options i{
 
   padding: 9px;
   background-color:  #F35424;;
   border-radius: 20px;
-  font-size: 12px;
+  font-size: 22px;
   color: white;
   
 }
