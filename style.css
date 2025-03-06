@@ -1368,7 +1368,7 @@
     }
     
       .ba-right-a {
-          justify-content: unset;
+          justify-content: center;
           /* width: 95%; */
       }
     .phone{
